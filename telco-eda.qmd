@@ -1,0 +1,6 @@
+---
+title: "Telco Customer Churn — EDA"
+author: "Rebecca"
+format: pdf
+editor: visual
+---
